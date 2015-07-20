@@ -1,0 +1,17 @@
+{
+  "name": "PGPromise",
+  "version": "1.0",
+  "homepage": "https://github.com/pinguo-yangyang/PGPromise",
+  "authors": [
+    "yangyang@camera360.com"
+  ],
+  "main": "dist/PGPromise.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
